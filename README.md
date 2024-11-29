@@ -12,7 +12,8 @@ This README gathers useful resources for learning Javascript.
 ---
 
 
-## Portugues
+## Portuguese
+
 
 - **CFBCursos**: [Curso básico e avançado de JavaScript em português](https://www.youtube.com/watch?v=E4DBTqgxHGM&list=PLx4x_zx8csUg_AxxbVWHEyAJ6cBdsYc0T&ab_channel=CFBCursos)
 - **Matheus Battisti - Hora de Codar**: [Curso completo de JavaScript para iniciantes](https://www.youtube.com/watch?v=TkD0QMyBa28&list=PLnDvRpP8BneysKU8KivhnrVaKpILD3gZ6&ab_channel=MatheusBattisti-HoradeCodar)
