@@ -1,5 +1,6 @@
 # Learn-javascript
 
+This README gathers useful resources for learning Javascript.
 
 - **Tech With Tim**: [JavaScript fundamentals with real-world examples](https://www.youtube.com/watch?v=TjjKcgtlsY8&ab_channel=TechWithTim)
 - **SuperSimpleDev**: [Learn JavaScript for beginners in simple steps](https://www.youtube.com/watch?v=EerdGm-ehJQ)
