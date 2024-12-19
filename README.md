@@ -8,7 +8,7 @@ This README gathers useful resources for learning Javascript.
 
 - **Tech With Tim**: [JavaScript fundamentals with real-world examples](https://www.youtube.com/watch?v=TjjKcgtlsY8&ab_channel=TechWithTim)
 - **SuperSimpleDev**: [Learn JavaScript for beginners in simple steps](https://www.youtube.com/watch?v=EerdGm-ehJQ)
-- **Bro Code**: [Curso prático de JavaScript para criar aplicações reais](https://www.youtube.com/watch?v=lfmg-EJ8gm4)
+- **Bro Code**: [Practical JavaScript Course for Building Real Applications](https://www.youtube.com/watch?v=lfmg-EJ8gm4)
 
 ### Websites
 
