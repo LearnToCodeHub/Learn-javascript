@@ -10,7 +10,7 @@ This README gathers useful resources for learning Javascript.
 - **SuperSimpleDev**: [Learn JavaScript for beginners in simple steps](https://www.youtube.com/watch?v=EerdGm-ehJQ)
 - **Bro Code**: [Curso prático de JavaScript para criar aplicações reais](https://www.youtube.com/watch?v=lfmg-EJ8gm4)
 
-- ### Websites
+### Websites
 
 - **GeeksforGeeks (JavaScript)**: [Comprehensive tutorials, examples, and exercises for mastering JavaScript concepts](https://www.geeksforgeeks.org/javascript/?ref=home-articlecards)
 - **JavaScript.info**: [In-depth tutorials and explanations on JavaScript, from basic to advanced topics](https://javascript.info/)
